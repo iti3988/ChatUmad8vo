@@ -1,0 +1,9 @@
+C:\estandaresFinal\estadaresFinal.Common\bin\Debug\estadaresFinal.Common.dll
+C:\estandaresFinal\estadaresFinal.Common\bin\Debug\estadaresFinal.Common.pdb
+C:\estandaresFinal\estadaresFinal.Common\bin\Debug\Newtonsoft.Json.dll
+C:\estandaresFinal\estadaresFinal.Common\bin\Debug\Newtonsoft.Json.xml
+C:\estandaresFinal\estadaresFinal.Common\obj\Debug\estadaresFinal.Common.csproj.AssemblyReference.cache
+C:\estandaresFinal\estadaresFinal.Common\obj\Debug\estadaresFinal.Common.csproj.CoreCompileInputs.cache
+C:\estandaresFinal\estadaresFinal.Common\obj\Debug\estadaresFinal.Common.csproj.CopyComplete
+C:\estandaresFinal\estadaresFinal.Common\obj\Debug\estadaresFinal.Common.dll
+C:\estandaresFinal\estadaresFinal.Common\obj\Debug\estadaresFinal.Common.pdb
